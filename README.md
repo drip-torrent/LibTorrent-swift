@@ -161,7 +161,12 @@ swift test
 
 ## License
 
-[Your License Here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Dependencies
+
+- libtorrent-rasterbar is licensed under BSD-3-Clause
+- Boost libraries are licensed under the Boost Software License
 
 ## Contributing
 
