@@ -1,0 +1,11 @@
+module LibTorrentCxx {
+    header "LibTorrentBridgeTypes.h"
+    export *
+    
+    link "torrent-rasterbar"
+    link "boost_system"
+    link "boost_filesystem"
+    link "ssl"
+    link "crypto"
+    link "z"
+}

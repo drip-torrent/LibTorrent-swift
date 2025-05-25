@@ -1,0 +1,42 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+xcuserdata/
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+DerivedData/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.so
+
+# Dependencies
+/Packages/
+/.build/
+/build/
+
+# Test coverage
+*.lcov
+.coverage/
+
+# Temporary files
+*.tmp
+*.log
+*~
